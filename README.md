@@ -5,9 +5,10 @@
 # Objetivos
 
 - [x] Criar a lista de tarefas
-- [ ] Projetos de UI/UX Design
-- [ ] Projeto de APP
-- [ ] Projeto de site institucional
+- [ ] Exercícios de UI/UX Design
+- [ ] Projeto prático da criação de um APP
+- [ ] Projeto prático da remodelação de um site institucional
+- [x] Projeto prático de um e-mail mkt
 - [ ] Portfólio digital
 
 # License
