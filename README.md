@@ -1,8 +1,15 @@
 # UI-UX Design
 
-![GitHub Logo](/images/logo.png)
-:star: Wireframes e experimentações com layouts utilizando o Adobe XD.
+:star: Wireframes e experimentações de layouts utilizando o Adobe XD.
 
-# This is an <h1> tag **License**
+# Objetivos
+
+- [x] Criar a lista de tarefas
+- [ ] Projetos de UI/UX Design
+- [ ] Projeto de APP
+- [ ] Projeto de site institucional
+- [ ] Portfólio digital
+
+# License
 
 MIT License © Luciana Muniz Freire
