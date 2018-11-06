@@ -2,7 +2,7 @@
 
 :star: Wireframes e experimentações de layouts utilizando o Adobe XD.
 
-# Objetivos
+### Objetivos
 
 - [x] Criar a lista de tarefas
 - [ ] Exercícios de UI/UX Design
@@ -11,6 +11,6 @@
 - [x] Projeto prático de um e-mail mkt
 - [ ] Portfólio digital
 
-# License
+### License
 
 MIT License © Luciana Muniz Freire
