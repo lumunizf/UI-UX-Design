@@ -1,15 +1,16 @@
 # UI-UX Design
 
-:star: Wireframes e experimentações de layouts utilizando o Adobe XD.
+:star: Wireframes, protótipos de baixa e alta fidelidade e experimentações das disciplinas de UI/UX Design.
 
 ### Objetivos
 
-- [x] Criar a lista de tarefas
-- [ ] Exercícios de UI/UX Design
-- [ ] Projeto prático da criação de um APP
-- [ ] Projeto prático da remodelação de um site institucional
-- [x] Projeto prático de um e-mail mkt
-- [ ] Portfólio digital
+- [ ] Exercícios de UI/UX Design.
+- [ ] Design Thinking: Projeto prático da criação de um APP.
+- [ ] Design Thinking: Documentação do projeto prático da criação de um APP.
+- [ ] Design Thinking: Publicação de um artigo com a descrição de todas as etapas do projeto prático da criação de um APP.
+- [ ] Adobe XD: Projeto prático da remodelação de um site institucional.
+- [x] Adobe XD: Projeto prático de um e-mail mkt.
+- [ ] UX Designer: Portfólio digital.
 
 ### License
 
