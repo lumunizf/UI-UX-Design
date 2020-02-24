@@ -19,12 +19,15 @@
 - [ ] Exercícios da formação **UX Designer** da Alura.
 
 
-## Pré-Requisitos
+## Ferramentas
 
 * Adobe XD CC
+* Figma
 
 
 ## Artigo
+
+Coming Soon
 
 
 
